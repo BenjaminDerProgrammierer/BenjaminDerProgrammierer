@@ -9,8 +9,8 @@ I'm speaking german
 - 👀 Mich interressiert Programmmierung
 - 🌱 Ich lerne gerade C++ und Java und TypeScript und HTML und CSS und PHP und javaScript
 
-Thanks for looking on my Profile
-I'm speaking german
+Danke dass Sie mein Profil ansehen
+Ich spreche Deutsch
 <!---
 BenjaminDerProgrammierer/BenjaminDerProgrammierer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
