@@ -1,20 +1,22 @@
-- 👋 Hi, I’m @BenjaminDerProgrammierer
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ and Java and TypeScript and HTML and CSS and PHP and javaScript
-
+# BenjaminDerProgrammierer
+## English
+- 👋 Hi, I’m @BenjaminDerProgrammierer from Austria
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning
+  - C#, Arduino C
+  - HTML, CSS, JavaScript, TypeScript, PHP
+- 🌐 I'm speaking german fluently and good english
 Thanks for looking on my Profile
-I'm speaking german
-
-- 👋 Hallo, ich bin @BenjaminDerProgrammierer
-- 👀 Mich interressiert Programmmierung
-- 🌱 Ich lerne gerade C++ und Java und TypeScript und HTML und CSS und PHP und javaScript
+## Deutsch
+- 👋 Hallo, ich bin @BenjaminDerProgrammierer und ich komme aus Österreich
+- 👀 Mich interessiert Coding
+- 🌱 Ich lerne gerade
+  - C#, Arduino C
+  - HTML, CSS, JavaScript, TypeScript, PHP
+- 🌐 Ich spreche flüssiges Deutsch und gutes Englisch
 
 Danke dass Sie mein Profil ansehen
-Ich spreche Deutsch
 <!---
 BenjaminDerProgrammierer/BenjaminDerProgrammierer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-BenjaminDerProgrammierer/BenjaminDerProgrammierer ist ein ✨ spezielles ✨ repository weil sein `README.md` (diese Datei) erscheint auf deinem GitHub Profil.
-Du kannst den Vorschau-Link drücken um einen Blick auf deine Änderrungen zu werfen.
 --->
