@@ -1,12 +1,9 @@
 # BenjaminDerProgrammierer
 
-## English
-
 - 👋 Hi, I’m @BenjaminDerProgrammierer
-- 🇦🇹 I'm from Austria
 - 👀 I’m interested in Coding and Breaking (Breakdance)
 - 🌱 I’m currently learning C, Web programming (HTML/CSS/JS/PHP) and Unity
-- 🌐 I'm speaking fluent 🇩🇪 german and good 🇺🇸 english
+- 🌐 I'm from 🇦🇹 Austria. I speak fluent 🇩🇪 german and good 🇺🇸 english
 
 Thanks for looking up my Profile
 
